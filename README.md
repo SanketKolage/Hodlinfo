@@ -60,13 +60,6 @@ API Endpoints
 GET /api/fetch-and-store: Fetches the top 10 cryptocurrency data from WazirX API, stores it in the database, and clears the old data.
 GET /api/crypto-data: Retrieves the stored cryptocurrency data from the database.
 
-Project Structure
-
-├── client                   # Folder for static frontend files
-├── db.js                    # Database connection file
-├── app.js                   # Main server file
-├── package.json             # Project dependencies and scripts
-└── README.md                # Project documentation
 
 
 
